@@ -6,9 +6,9 @@ import ContactsUI
 class ViewController: UIViewController, CLLocationManagerDelegate, CNContactPickerDelegate {
 
     // Your Twilio credentials
-    let accountSID = "AC4abc64a715c56268b38e475b4ec92f35"
-    let authToken = "50d53ca989d04add20c4c2417e01c2b1"
-    let twilioPhoneNumber = "+17178648051"
+    let accountSID = "ACcedb71f238363e050acf407cf43578a4"
+    let authToken = "59c510f7083dd0214280188e4a107cc1"
+    let twilioPhoneNumber = "+15413784801"
 
     var locationManager: CLLocationManager!
     var geocoder: CLGeocoder!
