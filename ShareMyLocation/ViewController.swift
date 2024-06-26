@@ -7,7 +7,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, CNContactPick
 
     // Your Twilio credentials
     let accountSID = "AC4abc64a715c56268b38e475b4ec92f35"
-    let authToken = "47b5979f78fe9055a473091f7db65d24"
+    let authToken = "50d53ca989d04add20c4c2417e01c2b1"
     let twilioPhoneNumber = "+17178648051"
 
     var locationManager: CLLocationManager!
